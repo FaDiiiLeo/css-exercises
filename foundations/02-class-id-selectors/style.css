@@ -1,0 +1,16 @@
+.simple{
+    font-family: Verdana, sans-serif;
+    background-color: rgb(255, 182, 193);
+}
+#id1{
+    color: blue;
+    font-size: 36px;
+}
+.simple.cooler{
+    font-size: 24px;
+}
+#id2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
